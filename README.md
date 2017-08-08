@@ -7,5 +7,5 @@ https://www.raspberrypi.org/learning/getting-started-with-guis/worksheet/
 
 https://www.raspberrypi.org/learning/getting-started-with-guis/worksheet2/
 
-#install guizero
+install guizero
 sudo pip3 install guizero
