@@ -1,8 +1,7 @@
-# test
 Test repository
 Test python files.
 
-From raspberrypi.org
+From https://www.raspberrypi.org
 
 https://www.raspberrypi.org/learning/getting-started-with-guis/worksheet/
 
