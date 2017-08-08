@@ -4,7 +4,7 @@ from tkinter import *
 def Call():
         lab= Label(root, text = 'You pressed\nthe button')
         lab.pack()
-        button['bg'] = 'blue'
+        button['bg'] = 'red'
         button['fg'] = 'white'
 
 root = Tk()
